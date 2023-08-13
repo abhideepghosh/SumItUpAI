@@ -1,6 +1,6 @@
 # SumItUpAI - Summarize It Up Using AI
 
-Welcome to the SumItUpAI Webapp, a project created by Abhideep Ghosh. This web application is built using React.js, styled with Tailwind CSS, and utilizes Redux for state management. The main purpose of this web app is to showcase the capabilities of generative artificial intelligence.
+Welcome to the SumItUpAI Webapp, a project created by Abhideep Ghosh. This web application is built using React.js, styled with Tailwind CSS, utilizes Redux for state management and OpenAI API for providing gist of the website using their links. The main purpose of this web app is to showcase the capabilities of generative artificial intelligence.
 
 ## About the WebApp
 
